@@ -1,0 +1,9 @@
+name: SapphireSpleeg
+version: 1.0
+author: Deecoy
+main: me.sapphire.spleeg.main.Main
+commands:
+  setlocation:
+    aliases: [setarlocalizacao]
+  setconfig:
+    aliases: [setarconfiguracao]
