@@ -1,0 +1,10 @@
+name: SapphireBowSpleef
+version: 1.0
+author: Deecoy
+main: me.sapphire.bowspleef.main.Main
+commands:
+  setlocation:
+    aliases: [setarlocalizacao]
+  setconfig:
+    aliases: [setarconfiguracao]
+softdepend: [WorldReset, Multiverse-Core]
